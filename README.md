@@ -18,7 +18,9 @@
 *Banana
 *orange
    *orange green
-   *orange yellow### SRIT COLLEGE IMAGE
+   *orange yellow
+   
+   ### SRIT COLLEGE IMAGE
 ![SRIT COLLEGE](https://tse4.mm.bing.net/th?id=OIP.xk5LDMlpzbgP9AsAL0dfcAHaCm&pid=Api&P=0&w=415&h=147)
 ### Links
 [SRIT COLLEGE](https://srit.ac.in)
